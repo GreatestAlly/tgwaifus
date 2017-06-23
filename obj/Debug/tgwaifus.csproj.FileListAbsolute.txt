@@ -1,0 +1,10 @@
+C:\Users\Jianming\Documents\My Games\Terraria\ModLoader\Mod Sources\tgwaifus\obj\Debug\tgwaifus.csprojResolveAssemblyReference.cache
+C:\Users\Jianming\Documents\My Games\Terraria\ModLoader\Mod Sources\tgwaifus\bin\Debug\tgwaifus.dll
+C:\Users\Jianming\Documents\My Games\Terraria\ModLoader\Mod Sources\tgwaifus\bin\Debug\tgwaifus.pdb
+C:\Users\Jianming\Documents\My Games\Terraria\ModLoader\Mod Sources\tgwaifus\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Jianming\Documents\My Games\Terraria\ModLoader\Mod Sources\tgwaifus\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Jianming\Documents\My Games\Terraria\ModLoader\Mod Sources\tgwaifus\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Jianming\Documents\My Games\Terraria\ModLoader\Mod Sources\tgwaifus\bin\Debug\Microsoft.Xna.Framework.Xact.dll
+C:\Users\Jianming\Documents\My Games\Terraria\ModLoader\Mod Sources\tgwaifus\bin\Debug\Terraria.exe
+C:\Users\Jianming\Documents\My Games\Terraria\ModLoader\Mod Sources\tgwaifus\obj\Debug\tgwaifus.dll
+C:\Users\Jianming\Documents\My Games\Terraria\ModLoader\Mod Sources\tgwaifus\obj\Debug\tgwaifus.pdb
